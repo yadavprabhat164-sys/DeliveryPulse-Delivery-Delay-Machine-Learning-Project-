@@ -1,4 +1,4 @@
-# DeliveryPulse: Delivery Delay Prediction
+# DeliveryPulse: E-commerce Delivery Delay Prediction
 
 A machine learning project that predicts whether an e-commerce delivery will be **delayed** or arrive **on time**, using information known before the delivery happens (distance, package details, weather, traffic and similar).
 
